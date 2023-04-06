@@ -1,0 +1,23 @@
+{
+  "name": "exploringplaywrighttestwithoutplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --workers 5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash10anand/exploringPlaywrightTestWithoutPlaywright.git"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.32.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash10anand/exploringPlaywrightTestWithoutPlaywright/issues"
+  },
+  "homepage": "https://github.com/akash10anand/exploringPlaywrightTestWithoutPlaywright#readme"
+}
